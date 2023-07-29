@@ -10,7 +10,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-- 🌱 I’m currently learning **React Native, Angular, C#, SQL**
+- 🌱 I’m currently learning **React Native, Java**
 
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?logo=portfolio)](https://yourportfolio.com) 
 
