@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Prabodhani Herath</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Information+Technology;Univercity+Of+Sri+Jayewardanepura"></a>
+</p>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabodhani123&label=Profile%20views&color=0e75b6&style=flat" alt="prabodhani123" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🌱 I’m currently learning **React Native, Express.js**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 330px></picture>
+<br> <br>
 
-- 👨‍💻 All of my projects are available at [https://prabodhaniherath.netlify.app/](https://prabodhaniherath.netlify.app/)
+- 🌱 I’m currently learning **React Native, Angular, C#, SQL**
+
+- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?logo=portfolio)](https://yourportfolio.com) 
 
 - 💬 Ask me about **Android, MERN , React**
 
-- 📫 How to reach me **hmtprabodhani@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y4jvmy7Rf_E9ubpPiRnFQcupgbPVpYcl/view?usp=sharing](https://drive.google.com/file/d/1Y4jvmy7Rf_E9ubpPiRnFQcupgbPVpYcl/view?usp=sharing)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I am funny**
+
 
 ### 📈 GitHub Stats
 <!--- stats & Trophy (start) -->
