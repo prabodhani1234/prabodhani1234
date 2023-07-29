@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabodhani Herath</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Information+Technology;Univercity+Of+Sri+Jayewardanepura"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Information+Technology;University+of+Sri+Jayewardenepura"></a>
 </p>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
