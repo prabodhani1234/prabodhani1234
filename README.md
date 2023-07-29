@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
+<br>
 - 🌱 I’m currently learning **React Native, Angular, C#, SQL**
 
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?logo=portfolio)](https://yourportfolio.com) 
